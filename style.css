@@ -79,7 +79,7 @@ body {
   color: white;
   border-radius: 25px;
   cursor: pointer;
-  margin-top: 10px;
+  margin: 20px auto 0 auto; /* Centraliza horizontalmente */
   display: none;
   font-size: 14px;
 }
@@ -148,18 +148,7 @@ body {
     padding: 10px;
   }
 
- #nextBtn {
-  background: #ff3296;
-  border: none;
-  padding: 10px 25px;
-  color: white;
-  border-radius: 25px;
-  cursor: pointer;
-  margin: 20px auto 0 auto; /* Centraliza o botão horizontalmente */
-  display: none;
-  font-size: 14px;
-  display: none;
-}
+ 
 
 
   #result p.share {
